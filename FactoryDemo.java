@@ -9,6 +9,6 @@ public void browse(){
 System.out.println("Factory demo browsing");
 }
 
-
+//scenario3
 
 }
